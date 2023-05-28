@@ -1,4 +1,6 @@
 # SSL
 
 Repositorio de Bautista Marquez
-Compilador C2X
+Usuario de Github: B-Mar004
+Mail institucional: bmarquez@frba.utn.edu.ar
+Compilador: C2X
